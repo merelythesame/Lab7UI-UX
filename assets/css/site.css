@@ -169,3 +169,8 @@ select:focus {
 .skip-link:focus {
   top: 0;
 }
+
+.required-asterisk {
+  color: red;
+  margin-left: 3px;
+}
